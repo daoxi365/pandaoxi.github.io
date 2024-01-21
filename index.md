@@ -84,7 +84,7 @@
 |   $\texttt{Daoxi365}$    | [PanDaoxi (gitee.io)](https://pandaoxi.gitee.io/)            | 主博客。                                                     |
 |   $\texttt{Tech Blog}$   | [PanDaoxi's Tech Blog (gitee.io)](https://pandaoxi.gitee.io/tech-blog/) | 技术博客。                                                   |
 | $\texttt{Software Blog}$ | [PanDaoxi's Software Blog (gitee.io)](https://pandaoxi.gitee.io/software/) | 自制软件下载站。                                             |
-|         洛谷主题         | [**好看的原创主题**【PANDAOXIPANDAOXI】](https://www.luogu.com.cn/theme/design/102553)、[**动画自然风景** 主题【PANDAOXI IIPANDAOXI II】](https://www.luogu.com.cn/theme/design/102584) 、[**高木同学** 主题【TAKAGITAKAGI】](https://www.luogu.com.cn/theme/design/102543) | 登录洛谷后才能使用。                                         |
+|         洛谷主题         | [**好看的原创主题**【PANDAOXI】](https://www.luogu.com.cn/theme/design/102553)、[**动画自然风景** 主题【PANDAOXI II】](https://www.luogu.com.cn/theme/design/102584) 、[**高木同学** 主题【TAKAGI】](https://www.luogu.com.cn/theme/design/102543) | 登录洛谷后才能使用。                                         |
 |         友情链接         | [HeZekun (@hezekun)](https://www.luogu.com.cn/user/726062) 、[DingWenqi (@987654321Aa)](https://www.luogu.com.cn/user/763026)、 [@oBSizu](https://www.luogu.com.cn/user/593395)、 [@PanDaoxi ](https://www.luogu.com.cn/user/593403) | $\texttt{In Luogu}$（洛谷账号）。                            |
 |         原创题单         | <https://www.luogu.com.cn/training/213458>                   | 信息学竞赛系列，现在几乎不更新了。                           |
 |         得意之作         | [Lemon 评测机的 **自动 AC 机**](https://pandaoxi.gitee.io/tech-blog/ji-yu-lemon-ping-ce-ruan-jian-de-zi-dong-ac-ji/) | 其实是个作弊工具。                                           |
