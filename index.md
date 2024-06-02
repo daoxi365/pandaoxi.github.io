@@ -5,10 +5,10 @@
 >   欢迎访问「PanDaoxi」的网页！\
 >   在此网页中，您可以访问到以下内容：
 >
->   - 我是谁
->   - 一些图片
->   - 我所喜爱的
->   - 链接
+>   - [我是谁](#我是谁)
+>   - [一些图片](#一些图片)
+>   - [我所喜爱的](#我所喜爱的)
+>   - [链接](#链接)
 
 ---
 
@@ -90,7 +90,7 @@
 |       洛谷主题       | [**好看的原创主题**【PANDAOXI】](https://www.luogu.com.cn/theme/design/102553)、[**动画自然风景** 主题【PANDAOXI II】](https://www.luogu.com.cn/theme/design/102584) 、[**高木同学** 主题【TAKAGI】](https://www.luogu.com.cn/theme/design/102543) | 登录洛谷后才能使用。                                         |
 |       友情链接       | [HeZekun (@hezekun)](https://www.luogu.com.cn/user/726062) 、[DingWenqi (@987654321Aa)](https://www.luogu.com.cn/user/763026)、 [@oBSizu](https://www.luogu.com.cn/user/593395)、 [@PanDaoxi ](https://www.luogu.com.cn/user/593403) | In Luogu（洛谷账号）。                            |
 |       原创题单       | <https://www.luogu.com.cn/training/213458>                   | 信息学竞赛系列，现在几乎不更新了。                           |
-|       得意之作       | [Lemon 评测机的 **自动 AC 机**](https://pandaoxi.gitee.io/tech-blog/ji-yu-lemon-ping-ce-ruan-jian-de-zi-dong-ac-ji/) | 其实是个作弊工具。                                           |
+|       得意之作       | [Lemon 评测机的 **自动 AC 机**](https://daoxi365.github.io/tech-blog/ji-yu-lemon-ping-ce-ruan-jian-de-zi-dong-ac-ji/) | 其实是个作弊工具。                                           |
 |      最有名的诗      | [我为何而学 (github.io)](https://daoxi365.github.io/wu-ti/)          | 倾诉苦闷。                                                   |
 |         语录         | <https://daoxi365.github.io/yu-lu/>                           | 老师们的语录合集。                                           |
 
