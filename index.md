@@ -69,7 +69,7 @@
 
 -   最喜欢的书：《红岩》（即使它是中考篇目，我也不是自愿看的）。
 
--   最喜欢的软件：`Vmware Workstation Pro`、`Aptana Studio 3` 和 `Gridea`。
+-   最喜欢的软件：`Vmware Workstation Pro`、`VS Code` 和 `Gridea`。
 
 -   最喜欢的动漫：《魔法禁书目录》（**「とある魔術の禁書目録」**）及相关作品。
 
@@ -94,6 +94,7 @@
 |      最有名的诗      | [我为何而学 (github.io)](https://daoxi365.github.io/wu-ti/)          | 倾诉苦闷。                                                   |
 |         语录         | <https://daoxi365.github.io/yu-lu/>                           | 老师们的语录合集。                                           |
 
+更多内容，见 <https://daoxi365.github.io/tech-blog/guan-yu/>。
 
 ```
                                                                     .-'''-.                      
