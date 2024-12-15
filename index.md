@@ -2,12 +2,13 @@
 
 # 「PanDaoxi」
 
+由于某些原因，我的一个域名指向了这里。如果您是来找博客的，请到 <https://daoxi365.pages.dev/>。
+
 >   欢迎访问「PanDaoxi」的网页！\
 >   在此网页中，您可以访问到以下内容：
 >
 >   - [我是谁](#我是谁)
 >   - [一些图片](#一些图片)
->   - [我所喜爱的](#我所喜爱的)
 >   - [链接](#链接)
 
 ---
@@ -19,15 +20,10 @@
 -   文化课方面：我更擅长文科，如语文、英语等，一般情况下发挥比较稳定；数学学得一直不太好，只能接受课内的知识，勉强应付考试；物理只好看运气了。现正积极采取措施改善情况。😓
 
 -   爱好：我热爱计算机科学，包括软件设计、信息安全等诸多方面，生命不息，折腾不止。我也曾投身于信息学竞赛，~~但是因为成绩太烂直接退役了~~。
-    此外，受「**刘宥言**」（我班同学）的影响热爱中国传统文化，如诗词曲赋等。
+    此外，我热爱中华优秀传统文化，包括各类诗词曲赋。
     
     >   我最讨厌别人（尤其是「**丁文岐**」）提起：「他在某竞赛题库刷了 500 多道题，却只在 CSP-J 2023 取得了 120 的低分。」
     >   事实上，我没考好是有原因的（~~借口~~）：由于学习压力，我已经将近一年未学竞赛了，导致了这样的惨案。
-
--   缺点：如果你仔细观察我，就可以在缺点里发现一个人。😅\
-    其实真的有很多缺点，也正积极采取措施改善这一状况。
-
--   优点：最被人称道的是「写字好看」。
 
 -   座右铭：「**温和中坚持，宁静中创新。**」（这也是我校的教育理念）。
 -   政治面貌：中国共产主义青年团团员。
@@ -50,31 +46,6 @@
 
 ---
 
-## 我所喜爱的
-
--   最喜欢的歌曲：《奔向辉煌》
-
-    ![3](./3.png)
-
--   最喜欢的诗词：
-
-    >   **水调歌头 · 重上井冈山**
-    >
-    >   毛泽东〔近现代〕
-    >
-    >   久有凌云志，重上井冈山。千里来寻故地，旧貌变新颜。到处莺歌燕舞，更有潺潺流水，高路入云端。过了黄洋界，险处不须看。
-    >   风雷动，旌旗奋，是人寰。三十八年过去，弹指一挥间。可上九天揽月，可下五洋捉鳖，谈笑凯歌还。世上无难事，只要肯登攀。
-
--   最喜欢（最常用）的网站：[哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/)
-
--   最喜欢的书：《红岩》（即使它是中考篇目，我也不是自愿看的）。
-
--   最喜欢的软件：`Vmware Workstation Pro`、`VS Code` 和 `Gridea`。
-
--   最喜欢的动漫：《魔法禁书目录》（**「とある魔術の禁書目録」**）及相关作品。
-
----
-
 ## 链接
 
 |         内容         | 地址                                                         | 备注                                                         |
@@ -85,16 +56,13 @@
 |  Github   | <https://github.com/pandaoxi>                                | 几乎不更新了。                                               |
 |       哔哩哔哩       | [PanDaoxi的个人空间-PanDaoxi个人主页-哔哩哔哩视频 (bilibili.com)](https://space.bilibili.com/1016727711?spm_id_from=333.1007.0.0) | 更新得很慢。                                                 |
 |         知乎         | [PanDaoxi - 知乎 (zhihu.com)](https://www.zhihu.com/people/pandaoxi) | 不好看。                                                     |
-| Daoxi365  | [PanDaoxi (github.io)](https://daoxi365.github.io/)            | 主博客。                                                     |
-| Tech Blog | [PanDaoxi's Tech Blog (github.io)](https://daoxi365.github.io/tech-blog/) | 技术博客。                                                   |
+| Daoxi365  | [PanDaoxi](https://daoxi365.pages.dev/)            | 博客。                                                     |
 |       洛谷主题       | [**好看的原创主题**【PANDAOXI】](https://www.luogu.com.cn/theme/design/102553)、[**动画自然风景** 主题【PANDAOXI II】](https://www.luogu.com.cn/theme/design/102584) 、[**高木同学** 主题【TAKAGI】](https://www.luogu.com.cn/theme/design/102543) | 登录洛谷后才能使用。                                         |
 |       友情链接       | [HeZekun (@hezekun)](https://www.luogu.com.cn/user/726062) 、[DingWenqi (@987654321Aa)](https://www.luogu.com.cn/user/763026)、 [@oBSizu](https://www.luogu.com.cn/user/593395)、 [@PanDaoxi ](https://www.luogu.com.cn/user/593403) | In Luogu（洛谷账号）。                            |
 |       原创题单       | <https://www.luogu.com.cn/training/213458>                   | 信息学竞赛系列，现在几乎不更新了。                           |
-|       得意之作       | [Lemon 评测机的 **自动 AC 机**](https://daoxi365.github.io/tech-blog/ji-yu-lemon-ping-ce-ruan-jian-de-zi-dong-ac-ji/) | 其实是个作弊工具。                                           |
-|      最有名的诗      | [我为何而学 (github.io)](https://daoxi365.github.io/wu-ti/)          | 倾诉苦闷。                                                   |
-|         语录         | <https://daoxi365.github.io/yu-lu/>                           | 老师们的语录合集。                                           |
+|       得意之作       | [Lemon 评测机的 **自动 AC 机**](https://daoxi365.pages.dev/2023/08/02/ji-yu-lemon-ping-ce-ruan-jian-de-zi-dong-ac-ji/) | 其实是个作弊工具。                                           |
 
-更多内容，见 <https://daoxi365.github.io/tech-blog/guan-yu/>。
+更多内容，见 <https://daoxi365.pages.dev/>。
 
 ```
                                                                     .-'''-.                      
