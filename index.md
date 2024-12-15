@@ -34,7 +34,7 @@
 
 ## 一些图片
 
-![欢迎信息](https://api.xecades.xyz/api?color=30%2C34%2C42%2C100&bg=200%2C200%2C200%2C100&date=2024-09-22&str=我的+15+岁生日&quote=✨+用心动脑，卓尔不群+✨&site=pandaoxi.github.io&bilibili=PanDaoxi&email=pandaoxi365@gmail.com&wechat=pandaoxi2021&luogu=PanDaoxi&qq=2060642520)
+![欢迎信息](https://api.xecades.xyz/api?color=30%2C34%2C42%2C100&bg=200%2C200%2C200%2C100&date=2025-09-22&str=%E6%88%91%E7%9A%84+16+%E5%B2%81%E7%94%9F%E6%97%A5&quote=%E2%9C%A8+%E7%94%A8%E5%BF%83%E5%8A%A8%E8%84%91%EF%BC%8C%E5%8D%93%E5%B0%94%E4%B8%8D%E7%BE%A4+%E2%9C%A8&site=daoxi365.pages.dev&bilibili=PanDaoxi&email=pandaoxi365@gmail.com&wechat=pandaoxi2021&qq=2060642520)
 <center>欢迎访客</center>
 
 ![我校校徽](./2.png)
